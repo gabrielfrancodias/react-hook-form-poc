@@ -1,0 +1,14 @@
+.sidebarCommon {
+  background: white;
+  position: fixed;
+  right: -501px;
+  top: 0;
+  height: 100vh;
+  width: 500px;
+  transition: all .4s ease;
+  padding-top: 36px;
+}
+
+.sidebarOpen {
+  right: 0;
+}
